@@ -1,0 +1,32 @@
+ 9514  git clone https://github.com/aprilkrg/canvas-crawler.git
+ 9515  code canvas-crawler
+ 9516  cd canvas-crawler
+ 9517  git branch
+ 9518  git fetch --all
+ 9519  git branch
+ 9520  git remote
+ 9521  git remote -v
+ 9522  git remote set-url upstream https://github.com/WDI-SEA/canvas-crawler.git
+ 9523  git remote upstream https://github.com/WDI-SEA/canvas-crawler.git
+ 9524  git remote add upstream https://github.com/WDI-SEA/canvas-crawler.git
+ 9525  git remote -v
+ 9526  git branch
+ 9527  git fetch --all
+ 9528  git branch
+ 9529  git checkout 425-codealong 
+ 9530  git remote -v
+ 9531  git push origin main
+ 9532  git checkout main
+ 9533  git diff
+ 9534  git checkout 425-codealong 
+ 9535  code .
+ 9536  git merge main
+ 9537  git status
+ 9538  git branch -a
+ 9539  git branch
+ 9540  gaa
+ 9541  git status
+ 9542  git checkout main 
+ 9543  git merge 425-codealong 
+ 9544  git push origin main
+ 9545  touch NOTES.md
